@@ -33,4 +33,4 @@ Here are the most important places to start:
 Vesper is built by and for its community. The best places to connect with us are:
 
 *   **[Official Documentation](https://www.vesper.sh/docs/):** The best place to learn how to install and use Vesper.
-*   **[Community Discord](https://your-discord-link):** Join our Discord server to ask questions, get help, and chat with other users.
+*   **[Community Hub](https://www.vesper.sh/community.html):** Visit our community page to join the conversation on Discord, find us on Reddit, and learn how to get involved.
